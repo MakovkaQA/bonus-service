@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cda6131-6ab2-4bc9-94bc-aa9158d40a9a" name="Changes" comment="fixed #1" />
+    <list default="true" id="6cda6131-6ab2-4bc9-94bc-aa9158d40a9a" name="Changes" comment="fixed #1">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,11 +25,6 @@
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
   </component>
   <component name="ProjectId" id="2LTCECnCik1YROVGDwvMQeCQ7cw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Настя/IdeaProjects/CreditCalculator"
+    "last_opened_file_path": "C:/Users/Настя/IdeaProjects/bonus-service"
   }
 }]]></component>
   <component name="RunAnythingCache">
